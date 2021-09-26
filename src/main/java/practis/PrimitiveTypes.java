@@ -22,6 +22,7 @@ public class PrimitiveTypes {
         String surname = "Kristafenko";
         int dateOfBirth = 1988;
         System.out.println("I was born in " + dateOfBirth + " My name is " + name + " surname: " + surname);
-
+        surname.length();
     }
 }
+
