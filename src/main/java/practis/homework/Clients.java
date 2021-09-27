@@ -1,4 +1,4 @@
-package practis.classroom;
+package practis.homework;
 
 public class Clients {
     public static void main(String[] args) {
